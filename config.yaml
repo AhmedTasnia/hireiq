@@ -1,0 +1,24 @@
+weights:
+  education: 30
+  experience: 25
+  skills: 20
+  age: 15
+  gender: 10
+
+education_scoring:
+  exact_match: 30
+  related_match: 20
+  other: 5
+
+experience_scoring:
+  meets_or_exceeds: 25
+  near: 15
+  low: 5
+
+age_scoring:
+  within: 15
+  outside: 0
+
+gender_scoring:
+  match: 10
+  mismatch: 0

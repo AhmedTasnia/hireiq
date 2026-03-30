@@ -1,0 +1,37 @@
+JOB CIRCULAR
+Position: Software Engineer
+Company: TechBD Solutions Ltd.
+Location: Dhaka, Bangladesh
+
+We are looking for a talented Software Engineer to join our growing team.
+
+Requirements:
+
+Gender: Male candidates are preferred.
+
+Age: Candidates must be under 32 years of age.
+
+Educational Qualification:
+Minimum Bachelor's degree in Computer Science (CSE) or Information Technology (IT) from any reputed university.
+
+Experience:
+Minimum 3 years of work experience in software development.
+
+Required Skills:
+- Python
+- SQL
+- JavaScript
+- HTML
+- CSS
+- Problem solving
+- Communication
+- Teamwork
+
+Job Responsibilities:
+- Develop and maintain web applications
+- Write clean, scalable code
+- Collaborate with the team on software design
+- Participate in code reviews
+
+Salary: Negotiable
+Apply By: 31 December 2025
